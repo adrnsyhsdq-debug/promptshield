@@ -1,0 +1,38 @@
+{
+  "name": "promptshield",
+  "version": "1.0.0",
+  "description": "Zero-dependency prompt injection / jailbreak detector for LLM apps and agents.",
+  "main": "lib/promptShield.js",
+  "bin": {
+    "promptshield": "bin/promptshield.js"
+  },
+  "files": [
+    "lib",
+    "bin"
+  ],
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "keywords": [
+    "llm",
+    "prompt-injection",
+    "jailbreak-detection",
+    "ai-security",
+    "mcp",
+    "agent-security",
+    "prompt-security"
+  ],
+  "author": "Sidik Adriansyah (Noctara Creative)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrnsyhsdq-debug/promptshield.git"
+  },
+  "homepage": "https://adrnsyhsdq-debug.github.io/promptshield/",
+  "bugs": {
+    "url": "https://github.com/adrnsyhsdq-debug/promptshield/issues"
+  }
+}
