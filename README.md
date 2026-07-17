@@ -143,7 +143,7 @@ Issues and PRs welcome — see [CONTRIBUTING.md](./CONTRIBUTING.md). New detecti
 ```bash
 git clone https://github.com/adrnsyhsdq-debug/promptshield.git
 cd promptshield
-npm test          # runs the full suite via node --test
+npm test          # runs the full suite via node --test (node:test runner)
 node bin/promptshield.js "test text"
 ```
 
