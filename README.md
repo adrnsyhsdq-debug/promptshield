@@ -2,9 +2,18 @@
 
 [![test](https://github.com/adrnsyhsdq-debug/promptshield/actions/workflows/test.yml/badge.svg)](https://github.com/adrnsyhsdq-debug/promptshield/actions/workflows/test.yml)
 [![npm version](https://img.shields.io/npm/v/%40noctara%2Fpromptshield.svg)](https://www.npmjs.com/package/@noctara/promptshield)
+[![npm downloads](https://img.shields.io/npm/dm/%40noctara%2Fpromptshield.svg)](https://www.npmjs.com/package/@noctara/promptshield)
+[![bundle size](https://img.shields.io/bundlephobia/minzip/%40noctara%2Fpromptshield)](https://bundlephobia.com/package/@noctara/promptshield)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 [![Node](https://img.shields.io/badge/node-%3E%3D18-brightgreen)](https://nodejs.org)
+[![zero dependencies](https://img.shields.io/badge/dependencies-0-brightgreen.svg)](./package.json)
 [![PRs welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](./CONTRIBUTING.md)
+[![Maintained](https://img.shields.io/badge/maintained-yes-brightgreen.svg)](https://github.com/adrnsyhsdq-debug/promptshield/commits/main)
+
+[![GitHub stars](https://img.shields.io/github/stars/adrnsyhsdq-debug/promptshield?style=social)](https://github.com/adrnsyhsdq-debug/promptshield/stargazers)
+[![GitHub last commit](https://img.shields.io/github/last-commit/adrnsyhsdq-debug/promptshield)](https://github.com/adrnsyhsdq-debug/promptshield/commits/main)
+[![GitHub issues](https://img.shields.io/github/issues/adrnsyhsdq-debug/promptshield)](https://github.com/adrnsyhsdq-debug/promptshield/issues)
+[![GitHub top language](https://img.shields.io/github/languages/top/adrnsyhsdq-debug/promptshield)](https://github.com/adrnsyhsdq-debug/promptshield)
 
 **Zero-dependency prompt injection / jailbreak detector** for LLM apps, AI agents, and MCP tool pipelines.
 
