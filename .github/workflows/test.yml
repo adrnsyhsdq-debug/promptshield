@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: ${{ matrix.node-version }}
       - name: Run tests
-        run: node --test test/
+        run: node --test "test/**/*.test.js"
       - name: Smoke-test CLI
         run: |
           node bin/promptshield.js "hello world"
